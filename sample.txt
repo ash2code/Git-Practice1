@@ -1,0 +1,4 @@
+nano => text editor , file creates at the same time we can edit the data as well
+touch => just creates the file
+vi => text editor
+
