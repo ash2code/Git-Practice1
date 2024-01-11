@@ -22,3 +22,7 @@ this repo contains basic shell scripts and python scripts
 6) COMMIT : commit the changhes with command git commit -m "need to give commit message here"
             
    
+###########################################################################
+* To check last modify by user for ecah line of a file use command = git blame file_name
+* switch to a new branch in one step - git checkout or git swith -c branch_name
+
