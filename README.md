@@ -12,13 +12,13 @@ this repo contains basic shell scripts and python scripts
 6) Commit those changes to local repository.
 
 1) CREATING WORKSPACE : **mkdir <folder>**
-                        **cd <folder>**
+                                  **cd <folder>**
 2) GIT INITIALIZATION: **git init**
 3) CREATING FILES:  by using nano/touch/vim we can create files and insert content (nano/vim).
 4) ADDING FILES TO THE STAGING AREA: git add . (it refers all files in that folder)
-                                     git add <file-name> (refers only given file name)
+                                                      git add <file-name> (refers only given file name)
 5) GIT CONFIGURATION: git config --global user.name "git userid"
-                      git config --globaluser.email "git email"
+                                                         git config --globaluser.email "git email"
 6) COMMIT : commit the changhes with command git commit -m "need to give commit message here"
             
    
