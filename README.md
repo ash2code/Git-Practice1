@@ -26,3 +26,15 @@ this repo contains basic shell scripts and python scripts
 * To check last modify by user for ecah line of a file use command = git blame file_name
 * switch to a new branch in one step - git checkout or git swith -c branch_name
 
+GIT STATUS:
+
+gti status command will give the status of our git commands.
+
+for example in your local repo you created a new file and checked th status git status , it will show us that the new file is untracked.
+when you add the file by using git add command , it will show us changes are in staging area , and changes yet to be committed.
+
+remove files from staged:
+
+let's say you have two files and you added those two files to staging area by using command git add <file names> , after executiung this command both files are in staging area.
+
+
